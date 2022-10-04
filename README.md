@@ -14,10 +14,10 @@ The analysis result shows the possibility and potential usefulness of the relati
 
 ### Work flow of keyword extraction from Economics journal paper
 using BERT
+![fig4](https://user-images.githubusercontent.com/48557539/193765866-86792ecd-420d-426d-996b-627aa0584efc.jpg)
 
 ---
 
-![fig4.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75390b6f-293c-4a3c-b63b-12c18b4907bd/fig4.jpg)
 
 ### Prepare Data
 
@@ -54,8 +54,8 @@ In fine-tuning, we add a classification layer to the last layer of the model in 
 ### Experiment Results
 
 ---
+![camera_ready_result](https://user-images.githubusercontent.com/48557539/193765896-4a0252df-1b1b-4e65-92df-1f1d474623f9.PNG)
 
-![camera_ready_result.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43fe5f66-cf8f-4ed0-8cee-4a8f0cf17ef2/camera_ready_result.png)
 
 ### How to Cite
 
