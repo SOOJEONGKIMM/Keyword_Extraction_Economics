@@ -1,6 +1,7 @@
 # Keyword_Extraction_Economics
 
 Implementation and pre-trained models of the paper *Keyword Extraction in Economics Literatures using Natural Language Processing*:
+
 [🔗 Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528546)
 
 If you encounter any problems, feel free to contact me or submit a GitHub issue.
@@ -12,8 +13,7 @@ In this paper, we specify the NLP pre-processing process with Economics journal 
 Here, we focus on the strength of NLP when applied to an unknown field.
 The analysis result shows the possibility and potential usefulness of the relationship research between keywords in research papers.
 
-### Work flow of keyword extraction from Economics journal paper
-using BERT
+### Work flow of keyword extraction from Economics journal paper using BERT
 ![fig4](https://user-images.githubusercontent.com/48557539/193765866-86792ecd-420d-426d-996b-627aa0584efc.jpg)
 
 ---
